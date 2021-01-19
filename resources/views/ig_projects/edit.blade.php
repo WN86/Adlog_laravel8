@@ -63,6 +63,7 @@
                             <button type="submit" class="btn btn-primary btn-sm" style="background-color: #6b9478">
                                 <i class="fa fa-dot-circle-o"></i> Submit
                             </button>
+                            <a href="{{ route('ig_projects.index') }}" class="btn btn-primary btn-sm" style="background-color: #6b9478">Cancel</a>
                         </div>
                     </div>
                     </div>
