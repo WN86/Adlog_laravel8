@@ -17,7 +17,7 @@ Advertisement Log 簡稱 Adlog ，是能讓自媒體經營者管理廣告商合�
 
 - 語言：PHP 8.0.0
 - 框架：Laravel 8.18.1
-- 資料庫：MySOL
+- 資料庫：MySQL
 - 資料庫管理工具：phpMyAdmin
 
 ### DEMO
